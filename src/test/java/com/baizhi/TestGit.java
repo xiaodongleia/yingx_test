@@ -6,5 +6,6 @@ public class TestGit {
         int b = 20;
         System.out.println("==");
         System.out.println("dev");
+        System.out.println("push");
     }
 }
