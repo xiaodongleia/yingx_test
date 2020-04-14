@@ -9,6 +9,7 @@ class YingxTestApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("第一次");
+        System.out.println("第二次");
     }
 
 }
